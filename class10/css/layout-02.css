@@ -1,0 +1,25 @@
+
+/*style Horizontal Menu*/
+#top-menu ul{
+list-style-type: none;
+background-color: blue;
+margin:0;
+padding:0;
+overflow: hidden;
+}
+
+#top-menu ul li{
+    float: left;
+}
+
+#top-menu ul li a{
+    color:blueviolet;
+    text-align:center;
+    padding:20px;
+    display: block;
+    text-decoration: none;
+}
+#top-menu ul li a:hover{
+    background-color: aqua;
+    color:aquamarine
+}
